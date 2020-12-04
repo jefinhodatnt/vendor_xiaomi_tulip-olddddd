@@ -1405,4 +1405,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     FingerprintExtensionService \
     vendor.qti.gnss@3.0-service \
-    WfdCommon
+    WfdCommon \
+    chargeonlymode
