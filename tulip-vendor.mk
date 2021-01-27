@@ -849,7 +849,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tulip/proprietary/vendor/bin/wifidisplayhalservice:$(TARGET_COPY_OUT_VENDOR)/bin/wifidisplayhalservice \
     vendor/xiaomi/tulip/proprietary/vendor/bin/xtra-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/xtra-daemon \
     vendor/xiaomi/tulip/proprietary/vendor/etc/audio_platform_info_intcodec.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_intcodec.xml \
-    vendor/xiaomi/tulip/proprietary/vendor/etc/cacert_location.pem:$(TARGET_COPY_OUT_VENDOR)/etc/cacert_location.pem \
     vendor/xiaomi/tulip/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile1.xml \
     vendor/xiaomi/tulip/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile2.xml \
     vendor/xiaomi/tulip/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile3.xml \
@@ -904,7 +903,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tulip/proprietary/vendor/etc/init/vendor.qti.rmt_storage.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.rmt_storage.rc \
     vendor/xiaomi/tulip/proprietary/vendor/etc/init/vendor.qti.tftp.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.tftp.rc \
     vendor/xiaomi/tulip/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc \
-    vendor/xiaomi/tulip/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/xiaomi/tulip/proprietary/vendor/firmware/a512_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b00 \
     vendor/xiaomi/tulip/proprietary/vendor/firmware/a512_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b01 \
     vendor/xiaomi/tulip/proprietary/vendor/firmware/a512_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b02 \
